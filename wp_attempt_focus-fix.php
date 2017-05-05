@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: wp_attempt_focus Fix
-Description: https://wordpress.stackexchange.com/a/163525/92974
+Description: Fix the "Password Field is Empty" WordPress Error. https://wordpress.stackexchange.com/a/163525/92974
 Version: 1.0
 Author: Robbert
 */
